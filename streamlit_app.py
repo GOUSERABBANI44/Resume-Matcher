@@ -265,3 +265,4 @@ badge(type="twitter", name="_srbhr_")
 st.markdown(
     'If you like the project and would like to further help in development please consider 👇')
 badge(type="buymeacoffee", name="srbhr")
+app.run(host="0.0.0.0" port="8080" debug="True")
